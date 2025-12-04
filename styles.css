@@ -1,11 +1,9 @@
-/* ===== RESET ===== */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* ===== GLOBAL ===== */
 body {
   margin:0;
   font-family:Arial;
@@ -27,7 +25,6 @@ main {
     background: #f3f3f3;
 }
 
-/* ===== HEADER ===== */
 .header {
     background: #ffffff;
     border-bottom: 1px solid #e5e5e5;
@@ -77,7 +74,6 @@ main {
     font-weight: 600;
 }
 
-/* ===== HERO ===== */
 .hero-section {
     padding: 80px 0;
     background: radial-gradient(circle at 80% 10%, rgba(229,57,53,0.08), transparent 55%);
@@ -132,8 +128,6 @@ main {
     font-weight: 600;
     box-shadow: 0 8px 18px rgba(229,57,53,0.3);
 }
-
-/* ===== SECTIONS WRAPPER ===== */
 .section-wrapper {
     width: 90%;
     max-width: 1200px;
@@ -147,7 +141,6 @@ main {
     color: #1d1d1f;
 }
 
-/* ===== TEAM GRID ===== */
 .team-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -188,8 +181,6 @@ main {
     font-size: 14px;
     color: #e53935;
 }
-
-/* ===== CONTACT ===== */
 .contact-grid {
     display: flex;
     justify-content: center;
@@ -225,7 +216,6 @@ main {
     font-size: 16px;
 }
 
-/* ===== PROFILE PAGES ===== */
 .profile-card {
   display: grid;
   grid-template-columns: 320px 1fr;
@@ -267,8 +257,6 @@ main {
     line-height: 1.7;
     margin-bottom: 20px;
 }
-
-/* ===== MINI TEAM STRIP ===== */
 .rest-of-team {
     margin-top: 45px;
 }
@@ -329,8 +317,6 @@ main {
     color: #e53935;
 }
 
-
-/* Formulario simple de cita */
 .cita-form label {
   font-weight: bold;
   margin-bottom: 6px;
