@@ -17,4 +17,4 @@ A lo largo del proyecto pude:
 
 ## Conclusión
 
-Este proyecto no solo es una web para promocionarnos , sino también una forma de aplicar mis conocimientos, mejorar mi lógica de programación y entregar algo útil y práctico. Fue una buena experiencia para seguir aprendiendo y avanzar en mis habilidades como desarrollador.
+Este proyecto no solo es una web para promocionarnos , sino también una forma de aplicar mis conocimientos, mejorar mi lógica de programación y entregar algo útil y práctico. Es una buena experiencia para seguir aprendiendo y avanzar en mis habilidades como desarrollador.
